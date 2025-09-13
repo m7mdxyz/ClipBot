@@ -1,0 +1,5 @@
+tokens.env
+/__pycache__
+chat_logs.db
+token.env
+/.venv
